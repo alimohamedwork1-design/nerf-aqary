@@ -6,6 +6,7 @@ import requests
 from pathlib import Path
 import runpod
 
+
 GS_DIR = Path("/workspace/gaussian-splatting")
 
 SUPABASE_URL = os.environ["SUPABASE_URL"].rstrip("/")
