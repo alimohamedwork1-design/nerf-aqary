@@ -1,6 +1,2 @@
 runpod
 requests
-boto3
-plyfile
-Pillow
-numpy<2
